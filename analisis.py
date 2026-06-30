@@ -5,7 +5,7 @@
 # ==============================================================================
 
 # ------------------------------------------------------------------------------
-# B) Importar librerías
+# A) Importar librerías
 # ------------------------------------------------------------------------------
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -17,13 +17,13 @@ plt.rcParams['font.sans-serif'] = 'Arial'
 plt.rcParams['font.family'] = 'sans-serif'
 
 # ------------------------------------------------------------------------------
-# D) Lectura del dataset
+# B) Lectura del dataset
 # ------------------------------------------------------------------------------
 print("1. Cargando datos...")
 df = pd.read_csv("netflix_titles_extended.csv")
 
 # ------------------------------------------------------------------------------
-# A) Limpieza y Calidad de Datos
+# C) Limpieza y Calidad de Datos
 # ------------------------------------------------------------------------------
 print("\n2. Limpiando y preparando datos...")
 
@@ -47,7 +47,7 @@ df.drop_duplicates(inplace=True)
 print(f"-> Datos limpios. Dimensiones finales: {df.shape[0]} filas y {df.shape[1]} columnas.")
 
 # ------------------------------------------------------------------------------
-# F) Análisis Exploratorio de Datos (EDA)
+# D) Análisis Exploratorio de Datos (EDA)
 # ------------------------------------------------------------------------------
 print("\n3. Corriendo Análisis Exploratorio (EDA)...")
 
@@ -66,7 +66,7 @@ matriz_corr = df[["presupuesto_millones", "vistas_millones", "puntaje_audiencia"
 print(matriz_corr)
 
 # ------------------------------------------------------------------------------
-# C) Visualización de Datos (Guardado de gráficos)
+# E) Visualización de Datos (Guardado de gráficos)
 # ------------------------------------------------------------------------------
 print("\n4. Generando visualizaciones...")
 
@@ -113,7 +113,7 @@ plt.close()
 print("-> Gráfico 'budget_vs_views.png' guardado con éxito.")
 
 # ------------------------------------------------------------------------------
-# E) Segmentación de Portafolio
+# F) Segmentación de Portafolio
 # ------------------------------------------------------------------------------
 print("\n5. Aplicando segmentación de portafolio...")
 
@@ -146,7 +146,3 @@ print("\n--- Métricas de Negocio por Segmento ---")
 resumen_segmentos = df.groupby("segmento")[["vistas_millones", "presupuesto_millones", "puntaje_audiencia"]].mean().round(2)
 print(resumen_segmentos)
 
-print("\n==============================================================================")
-print("¡ANÁLISIS COMPLETADO EXITOSAMENTE!")
-print("Los reportes y archivos visuales están listos para subir a tu repositorio.")
-print("==============================================================================")
