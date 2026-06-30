@@ -1,0 +1,251 @@
+id_pelicula,titulo,genero,director,pais,año_lanzamiento,duracion_minutos,presupuesto_millones,vistas_millones,puntaje_audiencia,ingresos_millones
+M0001,Operación Rescate,Romance,Denis Villeneuve,,2015,125,31.1,23.25,7.8,45.5
+M0002,Impacto Inminente,Documental,Martin Scorsese,Corea del Sur,2023,65,14.42,12.26,8.5,33.64
+M0003,Al Filo del Peligro,Ciencia Ficción,Steven Spielberg,Japón,2022,163,63.55,41.22,8.6,112.31
+M0004,Código de Honor,Romance,Christopher Nolan,España,2015,95,13.41,16.96,5.7,25.38
+M0005,Fuerza Extrema,Drama,Greta Gerwig,Estados Unidos,2020,136,31.86,29.82,6.2,49.13
+M0006,Venganza Silenciosa,Ciencia Ficción,Christopher Nolan,Francia,2019,149,158.23,152.54,7.0,346.03
+M0007,Cazador de Sombras,Ciencia Ficción,Sofia Coppola,Francia,2020,147,192.4,139.7,6.9,272.48
+M0008,El Último Bastión,Romance,Christopher Nolan,Corea del Sur,2024,134,57.7,31.68,7.8,78.17
+M0009,Línea de Fuego,Comedia,Christopher Nolan,Japón,2019,72,,10.29,5.7,14.28
+M0010,Misión Ejecutiva,Drama,Martin Scorsese,Reino Unido,2020,112,23.5,16.87,8.5,47.55
+M0011,Un Loco Viaje,Romance,Martin Scorsese,Reino Unido,2019,108,18.1,13.08,5.5,22.58
+M0012,Pareja en Apuros,Drama,Guillermo del Toro,Francia,2025,142,52.32,36.39,6.2,76.34
+M0013,Qué Pasó Ayer en París,Drama,Denis Villeneuve,Corea del Sur,2019,129,17.73,32.43,6.8,53.27
+M0014,Mi Querido Vecino,Ciencia Ficción,Greta Gerwig,España,2018,100,121.14,181.17,7.1,384.77
+M0015,Mentiras Piadosas,Documental,Christopher Nolan,Reino Unido,2017,92,5.92,9.8,,15.28
+M0016,Boda por Accidente,Drama,Christopher Nolan,España,2017,127,45.25,60.64,5.6,91.41
+M0017,Locura de Fin de Semana,Terror,Steven Spielberg,Japón,2018,96,21.09,15.43,,22.76
+M0018,El Jefe Encubierto,Ciencia Ficción,Martin Scorsese,Reino Unido,2023,90,,30.26,6.4,44.49
+M0019,Casi Famosos,Comedia,Greta Gerwig,Reino Unido,2016,106,,21.64,8.7,59.91
+M0020,Compañeros de Cuarto,Documental,,México,2023,87,,12.51,8.1,29.76
+M0021,El Camino a Casa,Terror,Guillermo del Toro,Reino Unido,2015,126,5.18,11.92,5.3,14.67
+M0022,Silencios del Alma,Terror,Denis Villeneuve,,2015,98,,34.01,7.1,74.88
+M0023,Cicatrices de Guerra,Comedia,Quentin Tarantino,Estados Unidos,2019,103,33.26,44.48,,65.83
+M0024,La Promesa,Documental,Denis Villeneuve,,2020,97,12.06,9.18,8.4,17.68
+M0025,La Última Carta,Ciencia Ficción,Sofia Coppola,Corea del Sur,2020,98,128.2,145.34,6.5,327.06
+M0026,Ecos del Pasado,Acción,Christopher Nolan,Corea del Sur,2017,159,,31.18,5.8,62.15
+M0027,El Precio de la Verdad,Documental,Guillermo del Toro,España,2021,78,11.62,12.27,8.8,31.22
+M0028,Destinos Cruzados,Comedia,Sofia Coppola,,2023,102,31.57,27.61,5.9,38.56
+M0029,Bajo la Lluvia,Terror,Greta Gerwig,,2025,109,27.3,36.67,5.7,66.75
+M0030,Memorias de Invierno,Ciencia Ficción,Quentin Tarantino,,2024,112,185.5,193.47,8.1,448.96
+M0031,Planeta Azul: Profundidades,Documental,Martin Scorsese,Japón,2022,112,10.7,17.19,8.2,37.04
+M0032,Detrás del Algoritmo,Acción,Guillermo del Toro,Reino Unido,2020,123,,18.98,6.0,32.62
+M0033,La Mente de un Genio,Acción,Guillermo del Toro,Estados Unidos,2022,116,56.62,58.46,6.1,103.52
+M0034,El Gran Imperio,Drama,Christopher Nolan,España,2019,132,59.97,65.17,6.5,125.11
+M0035,Secretos del Cosmos,Drama,Jordan Peele,,2022,141,33.66,24.44,8.7,59.57
+M0036,El Juicio del Siglo,Romance,Guillermo del Toro,,2024,105,16.03,20.83,5.6,35.08
+M0037,Ríos de Plástico,Comedia,Steven Spielberg,México,2018,108,11.74,12.9,6.9,30.25
+M0038,Luz de la Selva,Documental,Quentin Tarantino,España,2024,59,,20.17,8.7,47.43
+M0039,Deporte Extremo,Documental,Quentin Tarantino,,2022,73,12.13,17.63,9.5,52.88
+M0040,Revolución Culinaria,Romance,Steven Spielberg,España,2024,72,12.74,20.41,6.8,46.74
+M0041,Proyecto Aurora,Terror,,Reino Unido,2016,129,23.29,26.01,6.9,50.61
+M0042,Planeta Rojo,Terror,Steven Spielberg,México,2019,129,27.76,45.72,6.3,80.77
+M0043,Más allá del Tiempo,Romance,Steven Spielberg,España,2023,114,38.03,19.92,8.3,49.64
+M0044,Dimensión Cero,Terror,Quentin Tarantino,Estados Unidos,2018,84,35.97,32.96,4.9,48.28
+M0045,Neo-Tokio 2088,Drama,Denis Villeneuve,Estados Unidos,2025,165,32.05,19.4,6.2,39.19
+M0046,Estación de Paso,Documental,Quentin Tarantino,Corea del Sur,2020,75,9.01,9.31,9.2,24.37
+M0047,Inteligencia Artificial X,Romance,Jordan Peele,México,2015,101,36.92,47.53,8.0,132.9
+M0048,Gravedad Cero,Documental,Christopher Nolan,México,2023,87,11.33,21.59,9.0,45.16
+M0049,El Último Humano,Acción,Sofia Coppola,Corea del Sur,2015,126,114.02,110.37,6.7,166.68
+M0050,Código Infinito,Drama,Denis Villeneuve,España,2019,139,30.88,41.18,8.1,101.74
+M0051,La Casa de la Colina,Ciencia Ficción,Martin Scorsese,México,2018,135,198.55,157.73,6.6,273.06
+M0052,Pesadilla en la Morgue,Drama,Sofia Coppola,Estados Unidos,2017,127,,31.05,7.3,57.81
+M0053,El Ritual del Bosque,Romance,Christopher Nolan,Estados Unidos,2020,115,29.2,40.62,8.0,85.79
+M0054,El Espejo Negro,Ciencia Ficción,Jordan Peele,,2016,122,60.5,78.96,,106.88
+M0055,Voces del Ático,Acción,Jordan Peele,Reino Unido,2017,128,,11.08,7.7,19.52
+M0056,La Sombra en el Pasillo,Romance,Martin Scorsese,México,2019,112,,10.12,6.3,22.09
+M0057,Susurros en la Oscuridad,Comedia,Denis Villeneuve,España,2023,106,,30.61,7.3,56.44
+M0058,El Huésped Maldito,Documental,,Corea del Sur,2016,94,,4.7,8.4,12.51
+M0059,Criatura de la Noche,Acción,Steven Spielberg,Corea del Sur,2024,113,137.11,47.05,5.8,87.41
+M0060,La Maldición del Faro,Documental,Denis Villeneuve,España,2022,91,6.58,16.16,7.7,42.45
+M0061,Amor en París,Terror,,Japón,2016,109,,26.9,6.9,42.47
+M0062,Cartas de Otoño,Comedia,Jordan Peele,Francia,2025,75,23.29,23.02,7.0,53.82
+M0063,Una Tarde para Recordar,Comedia,Quentin Tarantino,Reino Unido,2019,90,5.12,12.74,5.8,21.5
+M0064,El Destino de Conocerte,Acción,Christopher Nolan,Corea del Sur,2021,129,94.55,65.39,6.1,121.29
+M0065,Bajo las Estrellas,Comedia,Martin Scorsese,México,2022,120,30.04,26.29,5.8,46.59
+M0066,Amor de Verano,Ciencia Ficción,Christopher Nolan,Reino Unido,2015,137,91.59,107.19,8.0,280.82
+M0067,El Café de los Encuentros,Comedia,Greta Gerwig,México,2020,121,6.58,12.23,6.5,21.2
+M0068,Corazones Unidos,Documental,Greta Gerwig,Japón,2015,79,,19.16,7.5,45.5
+M0069,Antes del Amanecer,Documental,Denis Villeneuve,Estados Unidos,2016,88,2.74,7.33,8.3,17.71
+M0070,Promesas de Papel,Romance,Jordan Peele,Reino Unido,2015,117,49.9,47.57,7.3,112.57
+M0071,Película Genérica 71,Documental,Jordan Peele,,2025,50,9.24,12.61,8.5,37.39
+M0072,Película Genérica 72,Romance,Steven Spielberg,Corea del Sur,2019,127,54.21,34.37,8.5,73.06
+M0073,Película Genérica 73,Documental,Steven Spielberg,Reino Unido,2024,57,13.65,9.82,8.3,28.47
+M0074,Película Genérica 74,Ciencia Ficción,Steven Spielberg,Reino Unido,2023,139,161.5,177.44,5.6,234.73
+M0075,Película Genérica 75,Romance,Quentin Tarantino,Reino Unido,2020,115,,6.83,7.9,12.16
+M0076,Película Genérica 76,Drama,Sofia Coppola,Francia,2025,94,51.89,56.36,6.5,84.45
+M0077,Película Genérica 77,Terror,Guillermo del Toro,Reino Unido,2025,65,34.07,39.12,7.4,77.5
+M0078,Película Genérica 78,Acción,Sofia Coppola,México,2015,141,,23.06,5.9,41.38
+M0079,Película Genérica 79,Documental,Christopher Nolan,Estados Unidos,2015,103,,8.54,7.8,15.56
+M0080,Película Genérica 80,Comedia,Sofia Coppola,Japón,2016,81,6.29,10.4,7.1,16.67
+M0081,Película Genérica 81,Documental,Quentin Tarantino,España,2023,71,12.57,14.2,8.8,42.75
+M0082,Película Genérica 82,Comedia,Christopher Nolan,Reino Unido,2017,102,27.04,22.21,8.8,64.06
+M0083,Película Genérica 83,Terror,Sofia Coppola,Corea del Sur,2015,99,23.14,26.6,6.5,56.39
+M0084,Película Genérica 84,Terror,Quentin Tarantino,Reino Unido,2019,115,23.38,25.47,6.6,56.41
+M0085,Película Genérica 85,Terror,Guillermo del Toro,Corea del Sur,2021,107,23.03,19.36,4.6,27.83
+M0086,Película Genérica 86,Comedia,Sofia Coppola,México,2020,118,39.87,60.92,6.2,89.91
+M0087,Película Genérica 87,Documental,Quentin Tarantino,Corea del Sur,2015,99,7.49,13.66,9.4,35.3
+M0088,Película Genérica 88,Terror,Steven Spielberg,,2019,110,31.18,23.3,5.4,39.68
+M0089,Película Genérica 89,Ciencia Ficción,Jordan Peele,España,2019,119,,21.0,5.9,32.22
+M0090,Película Genérica 90,Romance,Steven Spielberg,Estados Unidos,2020,98,53.01,51.43,8.8,140.72
+M0091,Película Genérica 91,Comedia,Jordan Peele,Corea del Sur,2017,94,18.69,14.59,7.7,25.62
+M0092,Película Genérica 92,Comedia,Martin Scorsese,Corea del Sur,2019,122,21.68,19.89,6.3,32.99
+M0093,Película Genérica 93,Documental,Martin Scorsese,Estados Unidos,2021,78,,30.97,9.2,83.67
+M0094,Película Genérica 94,Comedia,Martin Scorsese,España,2019,98,6.24,9.96,6.3,19.08
+M0095,Película Genérica 95,Comedia,Guillermo del Toro,Reino Unido,2019,61,37.61,20.51,5.8,35.35
+M0096,Película Genérica 96,Terror,Steven Spielberg,Corea del Sur,2019,110,14.85,23.66,5.8,42.85
+M0097,Película Genérica 97,Documental,Jordan Peele,Estados Unidos,2024,118,1.07,2.43,8.8,4.83
+M0098,Película Genérica 98,Terror,Quentin Tarantino,,2024,85,6.71,9.99,6.3,14.95
+M0099,Película Genérica 99,Romance,Christopher Nolan,,2017,152,58.11,17.85,7.4,44.07
+M0100,Película Genérica 100,Romance,Quentin Tarantino,México,2015,107,,8.48,8.2,21.57
+M0101,Película Genérica 101,Terror,Christopher Nolan,Estados Unidos,2019,61,39.7,61.81,5.3,78.33
+M0102,Película Genérica 102,Romance,Greta Gerwig,México,2023,99,,27.05,,46.13
+M0103,Película Genérica 103,Documental,Quentin Tarantino,,2015,104,8.23,10.01,7.3,18.65
+M0104,Película Genérica 104,Acción,Sofia Coppola,España,2017,149,135.7,185.14,5.5,289.99
+M0105,Película Genérica 105,Terror,Sofia Coppola,Reino Unido,2018,110,24.03,27.28,5.0,33.17
+M0106,Película Genérica 106,Ciencia Ficción,Denis Villeneuve,Estados Unidos,2015,148,160.09,65.2,8.8,180.03
+M0107,Película Genérica 107,Ciencia Ficción,Steven Spielberg,Japón,2015,107,180.22,83.15,5.8,148.71
+M0108,Película Genérica 108,Comedia,Christopher Nolan,,2022,84,10.51,10.61,8.4,22.4
+M0109,Película Genérica 109,Romance,Christopher Nolan,,2016,79,26.7,24.23,6.7,54.05
+M0110,Película Genérica 110,Ciencia Ficción,Steven Spielberg,Japón,2022,115,189.51,246.31,8.0,542.2
+M0111,Película Genérica 111,Comedia,Guillermo del Toro,Francia,2021,106,,15.01,8.0,31.41
+M0112,Película Genérica 112,Acción,Denis Villeneuve,,2024,123,78.38,81.5,6.3,125.3
+M0113,Película Genérica 113,Documental,Guillermo del Toro,Corea del Sur,2024,98,14.46,19.22,7.1,35.24
+M0114,Película Genérica 114,Documental,Guillermo del Toro,España,2016,70,13.31,10.4,8.6,20.37
+M0115,Película Genérica 115,Documental,Guillermo del Toro,Estados Unidos,2020,71,,24.6,7.0,51.3
+M0116,Película Genérica 116,Ciencia Ficción,Steven Spielberg,Japón,2020,128,84.29,86.31,6.8,193.84
+M0117,Película Genérica 117,Acción,Guillermo del Toro,Corea del Sur,2017,110,50.17,62.76,6.2,114.25
+M0118,Película Genérica 118,Ciencia Ficción,Sofia Coppola,Japón,2025,144,163.5,213.79,5.9,318.38
+M0119,Película Genérica 119,Romance,Martin Scorsese,Estados Unidos,2016,95,19.66,19.93,8.1,37.0
+M0120,Película Genérica 120,Ciencia Ficción,Greta Gerwig,México,2015,117,,22.92,5.6,32.32
+M0121,Película Genérica 121,Acción,Christopher Nolan,Estados Unidos,2020,126,133.98,124.09,5.6,192.5
+M0122,Película Genérica 122,Acción,Christopher Nolan,Francia,2019,114,,6.84,5.9,12.91
+M0123,Película Genérica 123,Romance,Greta Gerwig,Estados Unidos,2025,86,10.45,18.37,8.7,39.71
+M0124,Película Genérica 124,Acción,Steven Spielberg,Estados Unidos,2023,103,69.27,106.84,7.8,262.48
+M0125,Película Genérica 125,Acción,Quentin Tarantino,Francia,2015,128,52.76,71.47,8.7,207.28
+M0126,Película Genérica 126,Documental,Steven Spielberg,España,2021,64,12.76,16.85,8.4,39.88
+M0127,Película Genérica 127,Romance,Christopher Nolan,,2019,125,18.97,22.0,7.3,52.63
+M0128,Película Genérica 128,Drama,Christopher Nolan,Estados Unidos,2019,119,49.44,65.78,7.0,135.53
+M0129,Película Genérica 129,Drama,Greta Gerwig,Francia,2016,139,48.54,27.99,5.9,50.31
+M0130,Película Genérica 130,Acción,Guillermo del Toro,Corea del Sur,2025,110,74.96,106.58,6.4,198.35
+M0131,Película Genérica 131,Drama,Steven Spielberg,México,2017,116,45.43,33.87,,50.06
+M0132,Película Genérica 132,Drama,Jordan Peele,México,2021,133,12.9,14.06,6.4,22.89
+M0133,Película Genérica 133,Acción,Greta Gerwig,Estados Unidos,2020,135,,14.54,5.7,21.79
+M0134,Película Genérica 134,Drama,Sofia Coppola,España,2016,126,59.51,38.53,7.9,79.52
+M0135,Película Genérica 135,Ciencia Ficción,Christopher Nolan,España,2020,124,116.89,109.33,5.7,184.09
+M0136,Película Genérica 136,Comedia,Greta Gerwig,Corea del Sur,2016,107,25.8,24.69,8.4,49.77
+M0137,Película Genérica 137,Romance,Steven Spielberg,Estados Unidos,2016,117,13.28,14.42,6.6,32.32
+M0138,Película Genérica 138,Comedia,Christopher Nolan,México,2016,94,18.01,15.95,7.6,38.19
+M0139,Película Genérica 139,Acción,Quentin Tarantino,España,2025,113,87.88,107.34,8.3,245.16
+M0140,Película Genérica 140,Documental,Greta Gerwig,Estados Unidos,2017,86,,15.33,8.1,30.4
+M0141,Película Genérica 141,Romance,Denis Villeneuve,Japón,2016,102,33.43,23.18,8.1,62.95
+M0142,Película Genérica 142,Acción,Christopher Nolan,España,2018,124,65.33,74.99,7.7,189.38
+M0143,Película Genérica 143,Documental,Steven Spielberg,Francia,2023,67,8.38,17.8,7.6,42.64
+M0144,Película Genérica 144,Comedia,Martin Scorsese,Japón,2020,99,15.44,18.48,7.9,37.8
+M0145,Película Genérica 145,Acción,Jordan Peele,,2015,109,165.92,185.77,5.6,286.4
+M0146,Película Genérica 146,Romance,,España,2022,118,16.57,15.2,5.7,20.61
+M0147,Película Genérica 147,Romance,Guillermo del Toro,México,2021,94,58.16,35.63,5.6,49.61
+M0148,Película Genérica 148,Terror,,Reino Unido,2024,90,,13.01,4.7,19.74
+M0149,Película Genérica 149,Ciencia Ficción,Steven Spielberg,Japón,2017,131,186.43,93.6,7.0,205.98
+M0150,Película Genérica 150,Drama,Sofia Coppola,,2015,130,58.23,62.38,6.6,123.18
+M0151,Película Genérica 151,Documental,Sofia Coppola,Corea del Sur,2019,119,7.19,13.95,7.4,34.78
+M0152,Película Genérica 152,Terror,Martin Scorsese,Corea del Sur,2018,75,16.23,13.78,5.8,23.81
+M0153,Película Genérica 153,Drama,Guillermo del Toro,México,2024,131,47.29,64.14,7.6,138.13
+M0154,Película Genérica 154,Drama,Denis Villeneuve,España,2022,146,53.41,26.19,5.9,41.34
+M0155,Película Genérica 155,Acción,Martin Scorsese,Estados Unidos,2015,111,134.41,49.42,8.1,137.13
+M0156,Película Genérica 156,Drama,,España,2024,116,37.16,43.43,6.4,65.41
+M0157,Película Genérica 157,Ciencia Ficción,Martin Scorsese,México,2015,111,80.56,76.07,7.1,184.37
+M0158,Película Genérica 158,Romance,,Corea del Sur,2018,80,,8.77,6.4,18.43
+M0159,Película Genérica 159,Terror,Christopher Nolan,España,2022,120,20.88,34.39,7.2,59.73
+M0160,Película Genérica 160,Drama,Sofia Coppola,Corea del Sur,2019,125,10.89,16.38,,25.21
+M0161,Película Genérica 161,Acción,Christopher Nolan,Japón,2016,113,94.13,101.99,,175.42
+M0162,Película Genérica 162,Ciencia Ficción,Jordan Peele,,2020,93,195.13,289.5,8.5,729.55
+M0163,Película Genérica 163,Comedia,Guillermo del Toro,Estados Unidos,2019,73,21.17,15.32,7.0,36.29
+M0164,Película Genérica 164,Romance,Denis Villeneuve,Japón,2016,126,,31.88,7.1,77.61
+M0165,Película Genérica 165,Romance,,Corea del Sur,2025,109,40.37,55.9,7.1,110.26
+M0166,Película Genérica 166,Terror,Denis Villeneuve,Corea del Sur,2025,117,24.54,39.0,5.9,62.62
+M0167,Película Genérica 167,Romance,,Reino Unido,2025,120,18.04,17.07,7.3,42.62
+M0168,Película Genérica 168,Drama,Steven Spielberg,Reino Unido,2017,114,26.3,29.54,5.7,52.09
+M0169,Película Genérica 169,Acción,Martin Scorsese,Japón,2023,156,114.99,89.79,8.3,178.49
+M0170,Película Genérica 170,Romance,Jordan Peele,Francia,2021,134,17.48,28.35,7.0,45.7
+M0171,Película Genérica 171,Romance,Sofia Coppola,Japón,2021,96,44.02,41.95,6.2,76.88
+M0172,Película Genérica 172,Comedia,,Reino Unido,2025,41,39.11,19.5,5.6,37.27
+M0173,Película Genérica 173,Comedia,Denis Villeneuve,Corea del Sur,2020,89,27.99,16.26,8.2,44.07
+M0174,Película Genérica 174,Documental,Jordan Peele,México,2022,88,14.34,25.56,9.0,71.19
+M0175,Película Genérica 175,Ciencia Ficción,Quentin Tarantino,Japón,2018,116,158.64,72.67,8.4,147.96
+M0176,Película Genérica 176,Drama,Quentin Tarantino,Corea del Sur,2022,126,17.3,17.15,5.6,24.66
+M0177,Película Genérica 177,Romance,Christopher Nolan,México,2018,92,,17.24,5.6,32.29
+M0178,Película Genérica 178,Romance,Sofia Coppola,México,2022,118,10.92,11.92,8.6,25.41
+M0179,Película Genérica 179,Acción,Steven Spielberg,Reino Unido,2023,120,81.55,110.49,6.8,195.2
+M0180,Película Genérica 180,Documental,Denis Villeneuve,Japón,2017,99,11.86,8.3,9.2,18.42
+M0181,Película Genérica 181,Ciencia Ficción,Martin Scorsese,España,2017,143,60.86,61.19,6.4,121.21
+M0182,Película Genérica 182,Documental,Martin Scorsese,Estados Unidos,2025,52,13.36,13.15,7.7,34.73
+M0183,Película Genérica 183,Terror,Denis Villeneuve,Reino Unido,2016,88,,32.58,7.4,62.35
+M0184,Película Genérica 184,Ciencia Ficción,Guillermo del Toro,Reino Unido,2024,115,103.67,42.96,8.3,101.42
+M0185,Película Genérica 185,Romance,Steven Spielberg,España,2017,143,58.87,92.39,,146.03
+M0186,Película Genérica 186,Romance,Jordan Peele,Estados Unidos,2017,107,44.66,35.56,8.2,102.04
+M0187,Película Genérica 187,Ciencia Ficción,,Corea del Sur,2019,137,56.18,28.28,,35.71
+M0188,Película Genérica 188,Romance,Guillermo del Toro,Francia,2019,76,57.58,55.72,6.3,100.86
+M0189,Película Genérica 189,Drama,,Japón,2016,132,,37.42,8.1,82.79
+M0190,Película Genérica 190,Ciencia Ficción,,Francia,2024,139,139.22,73.78,5.8,142.6
+M0191,Película Genérica 191,Documental,Guillermo del Toro,Corea del Sur,2020,97,9.58,8.84,8.4,21.13
+M0192,Película Genérica 192,Ciencia Ficción,Christopher Nolan,,2019,134,190.28,81.96,6.8,133.13
+M0193,Película Genérica 193,Romance,Quentin Tarantino,Reino Unido,2020,105,41.27,31.67,8.0,77.1
+M0194,Película Genérica 194,Drama,,Estados Unidos,2015,130,40.61,27.11,7.6,66.21
+M0195,Película Genérica 195,Drama,Guillermo del Toro,Reino Unido,2019,104,43.04,32.47,8.4,61.47
+M0196,Película Genérica 196,Terror,Guillermo del Toro,México,2023,86,25.91,29.22,6.0,58.27
+M0197,Película Genérica 197,Documental,Greta Gerwig,Reino Unido,2024,88,7.73,8.93,7.3,16.18
+M0198,Película Genérica 198,Comedia,Christopher Nolan,Reino Unido,2016,84,,12.77,6.1,22.9
+M0199,Película Genérica 199,Comedia,Sofia Coppola,Corea del Sur,2015,105,20.35,21.91,7.9,47.94
+M0200,Película Genérica 200,Ciencia Ficción,Greta Gerwig,Corea del Sur,2024,132,138.99,211.09,8.2,545.17
+M0201,Película Genérica 201,Terror,Greta Gerwig,Corea del Sur,2025,120,21.77,28.49,7.0,54.12
+M0202,Película Genérica 202,Acción,Denis Villeneuve,Francia,2023,134,99.35,41.69,7.3,101.56
+M0203,Película Genérica 203,Ciencia Ficción,Quentin Tarantino,México,2024,128,161.64,113.92,5.8,209.0
+M0204,Película Genérica 204,Terror,Guillermo del Toro,,2023,111,20.18,25.94,7.2,57.14
+M0205,Película Genérica 205,Documental,Quentin Tarantino,,2023,100,,27.76,7.5,67.57
+M0206,Película Genérica 206,Documental,Steven Spielberg,Corea del Sur,2020,77,1.29,4.16,9.0,11.95
+M0207,Película Genérica 207,Documental,Denis Villeneuve,Estados Unidos,2022,80,5.65,10.85,8.0,19.92
+M0208,Película Genérica 208,Documental,Sofia Coppola,Francia,2025,83,7.91,10.54,8.0,23.13
+M0209,Película Genérica 209,Documental,Quentin Tarantino,España,2015,77,,19.6,8.4,56.2
+M0210,Película Genérica 210,Terror,Martin Scorsese,Estados Unidos,2024,115,12.72,19.86,6.3,30.12
+M0211,Película Genérica 211,Terror,,Japón,2018,90,12.13,12.18,5.7,22.02
+M0212,Película Genérica 212,Drama,Steven Spielberg,Japón,2015,148,18.71,20.76,7.4,53.28
+M0213,Película Genérica 213,Comedia,Christopher Nolan,Estados Unidos,2022,89,19.56,17.3,5.8,23.23
+M0214,Película Genérica 214,Romance,Sofia Coppola,Corea del Sur,2015,112,41.44,54.81,5.5,93.53
+M0215,Película Genérica 215,Documental,Steven Spielberg,España,2017,87,11.75,19.24,7.1,38.73
+M0216,Película Genérica 216,Acción,,España,2018,105,131.5,182.04,7.2,389.79
+M0217,Película Genérica 217,Romance,Denis Villeneuve,Francia,2022,104,39.4,50.11,6.0,70.86
+M0218,Película Genérica 218,Terror,,España,2020,105,,27.92,4.6,29.59
+M0219,Película Genérica 219,Acción,Greta Gerwig,Japón,2024,119,140.93,149.31,8.6,395.95
+M0220,Película Genérica 220,Acción,,México,2021,99,168.94,167.86,7.2,396.31
+M0221,Película Genérica 221,Acción,Greta Gerwig,Corea del Sur,2022,145,198.82,190.16,5.5,337.56
+M0222,Película Genérica 222,Drama,Denis Villeneuve,España,2016,131,27.96,41.8,8.1,99.2
+M0223,Película Genérica 223,Terror,Jordan Peele,Francia,2024,88,21.3,13.33,4.8,15.2
+M0224,Película Genérica 224,Acción,Greta Gerwig,Japón,2025,144,85.37,101.7,7.3,230.89
+M0225,Película Genérica 225,Documental,Christopher Nolan,México,2022,94,6.67,12.84,8.5,27.86
+M0226,Película Genérica 226,Ciencia Ficción,,Reino Unido,2017,106,144.88,138.19,5.8,271.62
+M0227,Película Genérica 227,Acción,,Reino Unido,2021,104,126.89,65.18,8.7,187.01
+M0228,Película Genérica 228,Drama,Christopher Nolan,México,2017,126,13.46,19.14,8.7,52.23
+M0229,Película Genérica 229,Romance,Martin Scorsese,Japón,2021,109,14.87,14.12,5.9,28.63
+M0230,Película Genérica 230,Terror,Guillermo del Toro,Francia,2025,109,25.75,11.03,5.1,12.88
+M0231,Película Genérica 231,Drama,Jordan Peele,México,2016,144,43.13,26.34,6.9,57.62
+M0232,Película Genérica 232,Acción,Sofia Coppola,Corea del Sur,2024,128,,15.31,6.5,26.5
+M0233,Película Genérica 233,Terror,Greta Gerwig,Corea del Sur,2020,120,15.93,30.08,6.0,61.05
+M0234,Película Genérica 234,Ciencia Ficción,Christopher Nolan,Reino Unido,2017,126,178.7,81.1,8.3,173.89
+M0235,Película Genérica 235,Acción,Denis Villeneuve,España,2017,108,,12.05,6.7,25.48
+M0236,Película Genérica 236,Drama,Greta Gerwig,Francia,2023,129,39.94,40.53,7.0,94.96
+M0237,Película Genérica 237,Comedia,Guillermo del Toro,Reino Unido,2021,93,13.3,17.94,7.3,30.15
+M0238,Película Genérica 238,Documental,Denis Villeneuve,España,2019,46,13.37,14.31,8.5,33.41
+M0239,Película Genérica 239,Romance,Steven Spielberg,España,2024,96,26.54,34.14,5.6,61.23
+M0240,Película Genérica 240,Drama,,,2021,134,43.47,55.32,8.1,126.3
+M0241,Película Genérica 241,Terror,Steven Spielberg,Corea del Sur,2023,93,,35.58,5.9,54.25
+M0242,Película Genérica 242,Acción,Greta Gerwig,Japón,2015,110,138.18,131.74,6.1,202.89
+M0243,Película Genérica 243,Documental,Guillermo del Toro,Estados Unidos,2021,98,4.54,9.12,9.1,20.04
+M0244,Película Genérica 244,Acción,Jordan Peele,Japón,2020,106,106.9,66.17,8.2,180.22
+M0245,Película Genérica 245,Terror,Greta Gerwig,Estados Unidos,2024,110,17.49,19.59,5.0,29.08
+M0246,Película Genérica 246,Acción,Christopher Nolan,México,2023,100,167.27,117.05,7.7,211.39
+M0247,Película Genérica 247,Comedia,Quentin Tarantino,Corea del Sur,2015,136,20.62,15.35,8.2,34.34
+M0248,Película Genérica 248,Documental,Greta Gerwig,España,2018,81,8.81,14.07,7.4,28.21
+M0249,Película Genérica 249,Documental,,Francia,2023,80,1.48,7.27,9.5,17.11
+M0250,Película Genérica 250,Terror,,Estados Unidos,2018,117,9.3,15.97,7.0,31.24
