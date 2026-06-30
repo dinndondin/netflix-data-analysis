@@ -1,7 +1,7 @@
 # ==============================================================================
 # PROYECTO: ¿Qué hace exitosa una película en Netflix?
 # Análisis y segmentación de portafolio para toma de decisiones
-# Autor: Estudiante de Ingeniería Comercial
+# Autora: Geraldine Ramos Cortés
 # ==============================================================================
 
 # ------------------------------------------------------------------------------

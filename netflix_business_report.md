@@ -1,14 +1,19 @@
 # Reporte de Investigación: ¿Qué hace exitosa una película en Netflix?
 ## Análisis y segmentación estratégica de contenido utilizando Python
 
-**Autor:** [Tu Nombre / Estudiante de Ingeniería Comercial]  
+**Autora:** [Geraldine Ramos Cortés](https://www.linkedin.com/in/geraldineramosc/) - Estudiante de Ingeniería Comercial  
 **Fecha:** Junio 2026  
-**Repositorio:** [Enlace a tu GitHub]  
+**Repositorio:** [netflix-data-analysis](https://github.com/dinndondin/netflix-data-analysis)  
 
 ---
 
 ## 📌 Resumen Ejecutivo
-*(Se completará al finalizar el análisis con los principales hallazgos de negocio).*
+El presente reporte analiza un portafolio de 250 películas en Netflix con el objetivo de evaluar la eficiencia en la asignación de capital de producción y su impacto directo en el volumen de visualizaciones y la satisfacción de la audiencia. A través de un análisis de correlación y una segmentación de portafolio 2x2 utilizando Python, se revelaron tres hallazgos clave de negocio:
+1. **La efectividad de la inversión en alcance**: Existe una correlación lineal positiva muy fuerte ($r = 0.87$) entre el presupuesto de producción y el volumen de visualizaciones. El capital invertido es un predictor altamente efectivo para garantizar visualizaciones masivas (adquisición de usuarios).
+2. **La independencia de la calidad percibida**: El presupuesto no influye en absoluto en el agrado del usuario ($r = -0.08$). El dinero de producción no compra el aprecio del suscriptor.
+3. **El poder de la Larga Cola (Long Tail)**: El 46% de las películas analizadas pertenecen a categorías de bajo presupuesto y visualizaciones individuales moderadas (*Contenido de Nicho*). Sin embargo, este segmento registra la **calificación de audiencia promedio más alta de la plataforma (7.3/10.0)**, demostrando ser el pilar fundamental para la retención y la fidelidad del suscriptor a un costo muy bajo.
+
+**Recomendaciones para la Alta Dirección**: Se propone mantener una asignación de capital balanceada. Se debe proteger el flujo constante de producciones de nicho por su alta rentabilidad de engagement/costo (ej. Documentales que logran calificaciones promedio de **8.3** con solo **$14M USD** de presupuesto promedio), y aplicar auditorías financieras al 4% de películas de *Alto Riesgo* que actualmente representan fugas de capital ($38.8M USD promedio invertidos con bajo impacto en vistas).
 
 ---
 
