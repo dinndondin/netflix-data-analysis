@@ -32,7 +32,7 @@ Un gráfico de dispersión revela cómo el presupuesto se traduce en vistas y c�
 * **[netflix_business_report.md](netflix_business_report.md)**: El informe de investigación completo estructurado bajo la perspectiva de Ingeniería Comercial, incluyendo marco teórico, hipótesis y referencias bibliográficas en formato **APA 7**.
 * **[netflix_titles_extended.csv](netflix_titles_extended.csv)**: El dataset extendido con 250 registros y variables financieras/de visualización.
 * **`budget_by_genre.png`** y **`budget_vs_views.png`**: Gráficos analíticos generados con Matplotlib y Seaborn.
-* **`analisis.py`**: *(Tu script principal de Python)*.
+* **`analisis.py`**: Script principal del proyecto.
 
 ---
 
@@ -44,6 +44,6 @@ Un gráfico de dispersión revela cómo el presupuesto se traduce en vistas y c�
 ---
 
 ## 🙋‍♂️ Autor
-* **[Tu Nombre]** - Estudiante de Ingeniería Comercial.
+* **[Geraldine Ramos Cortés]** - Estudiante de Ingeniería Comercial.
 * **LinkedIn**: [Tu Enlace a LinkedIn]
 * **GitHub**: [Tu Enlace a GitHub]
