@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Resumen Ejecutivo
+## Resumen Ejecutivo
 El presente reporte analiza un portafolio de 250 películas en Netflix con el objetivo de evaluar la eficiencia en la asignación de capital de producción y su impacto directo en el volumen de visualizaciones y la satisfacción de la audiencia. A través de un análisis de correlación y una segmentación de portafolio 2x2 utilizando Python, se revelaron tres hallazgos clave de negocio:
 1. **La efectividad de la inversión en alcance**: Existe una correlación lineal positiva muy fuerte ($r = 0.87$) entre el presupuesto de producción y el volumen de visualizaciones. El capital invertido es un predictor altamente efectivo para garantizar visualizaciones masivas (adquisición de usuarios).
 2. **La independencia de la calidad percibida**: El presupuesto no influye en absoluto en el agrado del usuario ($r = -0.08$). El dinero de producción no compra el aprecio del suscriptor.
@@ -90,7 +90,7 @@ Tras la limpieza del dataset, se calcularon las estadísticas descriptivas para 
 | **Máximo (Max)** | 2025.0 | 165.0 | 198.8 | 289.5 | 9.5 | 729.6 |
 | **Desv. Estándar** | 3.2 | 23.1 | 48.7 | 48.0 | 1.1 | 101.7 |
 
-### 🔍 Análisis de Negocio Preliminar
+### Análisis de Negocio Preliminar
 1. **Asimetría Financiera (Skewness)**:
    * El presupuesto promedio (**48.5M USD**) es sustancialmente mayor que el presupuesto de la película mediana (**30.9M USD**). Lo mismo ocurre con las visualizaciones (Promedio: **44.7M**, Mediana: **26.2M**).
    * **Interpretación Comercial**: Esto es evidencia empírica de una distribución de datos sesgada a la derecha, la cual refleja la coexistencia de dos modelos estratégicos de distribución de contenido en plataformas de streaming:
@@ -114,7 +114,7 @@ Agrupando el catálogo de películas por género principal, obtenemos las siguie
 | **Comedia** | 20.1 | 22.8 | 7.0 |
 | **Documental** | 13.9 | 14.0 | 8.3 |
 
-#### 💡 Hallazgos Clave de Negocio por Géneros:
+#### Hallazgos Clave de Negocio por Géneros:
 1. **Los Motores de Crecimiento (Sci-Fi y Acción)**:
    * Ambos géneros dominan en volumen de visualizaciones promedio (más de 85 millones de vistas por película). Sin embargo, requieren inversiones de capital masivas (presupuestos promedio superiores a los 90M USD). Tienen un puntaje de audiencia aceptable (~6.9 - 7.0).
 2. **Eficiencia en Costes de Satisfacción (Documentales)**:
