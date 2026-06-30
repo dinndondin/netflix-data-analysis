@@ -155,9 +155,6 @@ Muestra de forma inequívoca el fuerte impacto positivo del presupuesto en el vo
 ![Relación Presupuesto vs Vistas](budget_vs_views.png)
 
 ---
-*(En progreso - Siguientes pasos: Segmentación de catálogo).*
-
----
 
 ## 5. Segmentación de Catálogo (Matriz de Portafolio Netflix)
 Para convertir los datos en decisiones de negocio, se diseñó una regla de segmentación 2x2 basada en las medianas de las variables críticas:
@@ -173,7 +170,7 @@ Esta lógica clasifica las 250 películas en cuatro segmentos de negocio diferen
 | **Joya Rentable (Viral)** | 31 | 32.5 | 27.4 | 6.7 |
 | **Alto Riesgo (Bajo Impacto)** | 10 | 21.8 | 38.8 | 6.9 |
 
-### 💡 Diagnóstico del Portafolio:
+### Diagnóstico del Portafolio:
 1. **Contenido de Nicho (46% del Catálogo)**:
    * Representa casi la mitad del catálogo. Tienen bajo costo y bajas vistas, pero registran la **calificación de audiencia más alta (7.3/10.0)**. 
    * **Decisión de Negocio**: Es el núcleo de la retención y fidelización de la plataforma. Cumple a la perfección con la teoría de la Larga Cola.
